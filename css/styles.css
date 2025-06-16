@@ -185,7 +185,7 @@ html {
 
 ::selection {
   background-color: #ffffff;
-  color: #276A75;
+  color: #59837C;
 }
 
 body {
@@ -255,7 +255,7 @@ section {
 .preloader .loader {
   height: 2.5rem;
   width: 2.5rem;
-  border: 0.25rem solid #276A75;
+  border: 0.25rem solid #59837C;
   border-radius: 50%;
   border-top: 0.25rem solid transparent;
   border-bottom: 0.25rem solid transparent;
@@ -316,7 +316,7 @@ section {
 }
 
 .red_dot {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -357,7 +357,7 @@ section {
     #bbbbb9 37%,
     #7f7f7e 98%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#276A75', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59837C', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
   background-repeat: no-repeat;
   color: #ffffff;
   height: 100%;
@@ -374,7 +374,7 @@ nav {
 }
 
 .logo {
-  filter: brightness(600%);
+  filter: brightness(1000%);
   font-size: 3.125rem;
   font-weight: 900;
 }
@@ -399,14 +399,14 @@ nav {
   background-color: #fff;
   z-index: 500;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  color: #276A75;
+  color: #59837C;
   padding: 10px 40px;
   transition: 0.3s;
 }
 
 .sticky .logo {
   filter: brightness(100%);
-  color: #276A75;
+  color: #59837C;
 }
 
 .sticky #navbar ul li a {
@@ -414,7 +414,7 @@ nav {
 }
 
 .sticky #navbar ul li a:hover {
-  color: #276A75;
+  color: #59837C;
 }
 
 .sticky .navbar {
@@ -453,7 +453,7 @@ nav {
   background-color: #ffffff;
   z-index: 9999;
   overflow: hidden;
-  color: #276A75;
+  color: #59837C;
   transition: 0.3s;
   text-align: center;
 }
@@ -476,7 +476,7 @@ nav {
 }
 
 .overlay-content a:hover {
-  color: #276A75;
+  color: #59837C;
 }
 /* End: Mobile Menu Styling */
 
@@ -500,7 +500,7 @@ nav {
 }
 
 .download-btn {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -551,23 +551,23 @@ nav {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background: #276A75; /* Old browsers */
+  background: #59837C; /* Old browsers */
   background: -moz-linear-gradient(
     top,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* FF3.6-15 */
   background: -webkit-linear-gradient(
     top,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(
     to bottom,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#276A75', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59837C', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
   background-repeat: no-repeat;
   color: #ffffff; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
@@ -644,7 +644,7 @@ nav {
 }
 
 .company-name {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -684,23 +684,23 @@ nav {
 
 /* How To Section Styling */
 #howto {
-  background: #276A75; /* Old browsers */
+  background: #59837C; /* Old browsers */
   background: -moz-linear-gradient(
     top,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* FF3.6-15 */
   background: -webkit-linear-gradient(
     top,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(
     to bottom,
-    #276A75 37%,
+    #59837C 37%,
     #255057 98%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#276A75', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59837C', endColorstr='#255057',GradientType=0 ); /* IE6-9 */
   background-repeat: no-repeat;
   color: #ffffff;
   height: 24.375rem;
@@ -793,7 +793,7 @@ nav {
 }
 
 .subscribe-btn {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   border: none;
   box-shadow: 0 10px 30px rgba(223, 27, 60, 0.3);
   color: #ffffff;
@@ -803,7 +803,7 @@ nav {
   margin-left: -200px;
 }
 .subscribe-btn:hover {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   color: #ffffff;
 }
 /* End: Subscribe Section Styling */
@@ -842,7 +842,7 @@ nav {
 }
 
 .links ul li:hover {
-  background: linear-gradient(to bottom, #276A75 10%, #255057 100%);
+  background: linear-gradient(to bottom, #59837C 10%, #255057 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
