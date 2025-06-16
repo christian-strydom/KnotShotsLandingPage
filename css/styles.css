@@ -819,8 +819,8 @@ nav {
 }
 
 .app-logo {
-  -webkit-filter: drop-shadow(0 10px 30px rgba(26, 75, 64, 0.3));
-  filter: drop-shadow(0 10px 30px rgba(26, 75, 64, 0.3));
+  -webkit-filter: drop-shadow(0 10px 30px rgba(165, 165, 161, 0.3));
+  filter: drop-shadow(0 10px 30px rgba(187, 188, 180, 0.3));
 }
 /* End: Download The App Section Styling */
 
