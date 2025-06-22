@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.hundredk.KnotShots",
+            "sha256_cert_fingerprints": [
+                "B5:CE:F0:C1:04:69:4B:42:4D:CC:DE:A4:5A:E7:4F:7B:81:03:1F:C5:BE:EE:F5:AD:8C:67:B5:7F:22:2D:CF:08"
+            ]
+        }
+    }
+]
